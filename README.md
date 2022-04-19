@@ -1,6 +1,6 @@
 # R Package: vectorsummary
 
-STAT 545 assignment to create an R package for practice.
+STAT 545 assignment to create a simple R package for practice.
 
 ## vectorstats(x)
 
