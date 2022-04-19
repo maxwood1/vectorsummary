@@ -1,0 +1,10 @@
+Package: vectorsummary
+Type: Package
+Title: Outputs summary statistics and plots for a numeric vector
+Version: 0.1.0
+Author: Max Woodbury
+Maintainer: Max Woodbury <woodburm@purdue.edu>
+Description: The package outputs summary statistics and plots for numeric vectors. It contains the functions vectorstats(x) and vectorplots(x). The vectorstats() function outputs the quantiles, mean, standard deviation, and standard error of a given vector. The vectorplots() function outputs 4 types of graphs for the vector which are a scatterplot, a boxplot, a histogram, and a kernel density plot.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
